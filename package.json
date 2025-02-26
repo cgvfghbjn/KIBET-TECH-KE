@@ -1,12 +1,12 @@
 {
-  "name": "KIBET-MD",
+  "name": "TEDDY-MD",
   "version": "1.0.0",
   "description": "A WhatsApp bot created using Node.js",
   "main": "teddyofc.js",
   "scripts": {
     "start": "pm2 start teddyoofc.js --deep-monitoring --attach --name LAKA-MD",
-    "stop": "pm2 stop LAKA-MD",
-    "restart": "pm2 restart LAKA-MD"
+    "stop": "pm2 stop TEDDY-MD",
+    "restart": "pm2 restart TEDDY-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:teddyofc-baliyes",
